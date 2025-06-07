@@ -1,0 +1,11 @@
+Name: Mia Flor Tampus
+Age: 20
+Birthdate: 10/21/04
+Type of Coach: Workout Coach
+Workout Specialty: Glutes
+Phone Number: 09959314112
+Gmail Adress: miaflor@gmail.com
+Experience 1: gym instructor
+Duration 1: 10 months
+Experience 2: gym instructor at Jim Gym
+Duration 2: 2 years

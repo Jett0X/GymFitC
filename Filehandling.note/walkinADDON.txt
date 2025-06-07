@@ -1,0 +1,25 @@
+a - RowingMachine - 300
+b - StairClimber - 105
+c - Dumbbell10kg - 60
+d - Dumbbell15kg - 70
+e - Barbells10 kg - 50
+f - Kettlebells8kg - 50
+g - LatPulldown - 200
+h - CableCrossover - 300
+i - ChestFlyMachine - 300
+j - TRXSuspension - 100
+k - MedicineBall5kg - 80
+l - AdjustableTrainingBench - 100
+m - PullUpBar - 100
+n - Barbells20kg - 100
+o - Barbells30kg - 200
+p - Kettlebells12kg - 80
+q - Kettlebells16kg - 120
+r - SmithMachine - 300
+s - BenchPress - 50
+t - LegCurl - 300
+u - LegPressMachine - 300
+v - HackSquatMachine - 300
+w - PowerRack - 300
+x - DipStation - 100
+y - FunctionalTrainer - 300

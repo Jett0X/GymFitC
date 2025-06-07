@@ -1,0 +1,13 @@
+a - Barbells20kg - 100
+b - Barbells30kg - 200
+c - Kettlebells12kg - 80
+d - Kettlebells16kg - 120
+e - SmithMachine - 300
+f - BenchPress - 50
+g - LegCurl - 300
+h - LegPressMachine - 300
+i - HackSquatMachine - 300
+j - MedicineBall10kg - 180
+k - PowerRack - 300
+l - DipStation - 100
+m - FunctionalTrainer 300
